@@ -1,4 +1,4 @@
-<img src="test.png"><br>
+<img src="..\test.png"><br>
 
 ## Python Создание клиент-серверных приложений 
 ### 1. task1.py 

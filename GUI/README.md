@@ -1,4 +1,4 @@
-<img src="test.png"><br>
+<img src="..\test.png"><br>
 
 ## Python  Creating GUI programs
 ### 1. task1.py 

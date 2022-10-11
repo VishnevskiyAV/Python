@@ -1,4 +1,4 @@
-<img src="test.png"><br>
+<img src="..\test.png"><br>
 
 ## Python OOP
 ### 2. task2.py 
