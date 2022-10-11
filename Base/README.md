@@ -1,4 +1,4 @@
-<img src="test.jpg"><br>
+<img src="..\test.png"><br>
 
 ## Python основы
 ### 1. base1-6.py 

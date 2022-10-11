@@ -1,4 +1,4 @@
-<img src="test.jpg"><br>
+<img src="test.png"><br>
 
 ## Python основные функции
 ### 1. task1.py 
