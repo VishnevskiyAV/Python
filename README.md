@@ -6,3 +6,5 @@
 ## Python - [ООП](https://github.com/VishnevskiyAV/Python/tree/main/OOP)
 ## Python - [Создание-графического-интерфейса](https://github.com/VishnevskiyAV/Python/tree/main/GUI)
 ## Python - [Создание-клиент-серверных-приложений](https://github.com/VishnevskiyAV/Python/tree/main/Internet)
+## Python - [Калькулятор](https://github.com/VishnevskiyAV/Python/tree/main/calculator)
+## Python - [Игра-змейка](https://github.com/VishnevskiyAV/Python/tree/main/Simple_game)
